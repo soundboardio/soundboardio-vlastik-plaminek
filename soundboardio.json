@@ -2,9 +2,9 @@
   "name": "Vlastík Plamínek",
   "shortName": "Plamínek",
   "story": [
-    "Vlastimil Brůček, alias „Vlastík Plamínek”, je numerolog a věštec. Specializuje se na poradenské služby v Praze a východních Čechách.",
-    "Jako meteorolog a autor knihy „Když věštec nespí” má bohaté zkušenosti s věštěním pomocí tarotových a runových karet, mořského písku a hrotové terapie.",
-    "Také působil jako TV rosnička a účastnil se výprav za tropickými bouřemi."
+    "Vlastimil Brůček alias Vlastík Plamínek je kartář a numerolog z pořadu Volejte věštce.",
+    "Narodil se v roce 1961, vyučil se optikem v Turnově, jezdil jako vlakvedoucí a psal do turnovských novin. Kolem roku 1995 se začal živit jako kartář a léčitel.",
+    "Proslavil se bubnovacími rituály, při kterých umí vybubnovat třeba chobotnici. V roce 2011 přišel do Show Jana Krause."
   ],
   "description": "Já mám pruh, ty máš pruh, máme pruhy. Já ten druhý!",
   "author": {
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "A leze to po mě",
+      "name": "A leze to po mně",
       "filename": "205-leze_to_po_me.mp3",
       "tags": [
         "Chobotnice"
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "Chobotnice leze po mě ve vodě a nemá to nohy",
+      "name": "Chobotnice leze po mně ve vodě a nemá to nohy",
       "filename": "209-chobotnice_leze_po_me_ve_vode.mp3",
       "tags": [
         "Chobotnice"
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Chobotnice leze po mě ve vovovovo…",
+      "name": "Chobotnice leze po mně ve vovovovo…",
       "filename": "215-leze_po_me_ve_vovovovo.mp3",
       "tags": [
         "Chobotnice"
@@ -289,12 +289,18 @@
       "url": "https://www.youtube.com/watch?v=cXIpG8m6kdc"
     },
     {
-      "name": "Necykolpedie: Vlastík Plamínek",
+      "name": "Wikipedie: Vlastík Plamínek",
+      "source": "Wikipedie",
+      "url": "https://cs.wikipedia.org/wiki/Vlast%C3%ADk_Plam%C3%ADnek"
+    },
+    {
+      "name": "Necyklopedie: Vlastík Plamínek",
       "source": "Necyklopedie",
+      "note": "parodie",
       "url": "https://necyklopedie.org/wiki/Vlast%C3%ADk_Plam%C3%ADnek"
     },
     {
-      "name": "Štěne",
+      "name": "Štěně",
       "source": "YouTube",
       "url": "https://www.youtube.com/watch?v=6x-SABWvpCc"
     }
